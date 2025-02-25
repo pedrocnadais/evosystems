@@ -130,6 +130,8 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 
+  // modal
+
   void showMovieDetails(dynamic movie) {
     showDialog(
       context: context,
